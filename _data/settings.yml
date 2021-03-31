@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: Where POWER meets TRUST.
 
 hero_settings:
-  overlay_opacity: 0.9
+  overlay_opacity: 0.65
 
 post_settings:
   grid_spacing: 10
