@@ -73,13 +73,13 @@ color_settings:
   # hero_text_color: '#ffffff'       -- White
   # error_color: '#D64541'           -- ~CG Red
 
-  background_color: '#23282f'
-  background_alt_color: '#ffffff'
+  background_color: '#ffffff'
+  background_alt_color: '#23282f'
   text_dark_color: '#114dbb'
   text_medium_color: '#bd114e'
-  text_light_color: '#ABB7B7'
-  accent_color: '#3498db'
-  border_color: '#23282f'
+  text_light_color: '#bb7f11'
+  accent_color: '#11bb7f'
+  border_color: '#bb7f11'
   hero_background_color: '#bb7f11'
   hero_text_color: '#ffffff'
   error_color: '#D64541'
