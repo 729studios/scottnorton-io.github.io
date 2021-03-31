@@ -75,12 +75,12 @@ color_settings:
 
   background_color: '#23282f'
   background_alt_color: '#ffffff'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
+  text_dark_color: '#114dbb'
+  text_medium_color: '#bd114e'
   text_light_color: '#ABB7B7'
   accent_color: '#3498db'
   border_color: '#23282f'
-  hero_background_color: '#132930'
+  hero_background_color: '#bb7f11'
   hero_text_color: '#ffffff'
   error_color: '#D64541'
 
