@@ -88,43 +88,43 @@ font_settings:
   # font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
   font_embed: '<style type="text/css">    @font-face{
         font-family:"Magistral W01 Light";
-        src:url("Fonts/905963/cd2f4bbb-ad6d-4d62-9404-45b4f947a007.woff2") format("woff2"),url("Fonts/905963/27f14f42-5357-4ca6-98a0-7e05ba169c19.woff") format("woff");
+        src:url("../Fonts/905963/cd2f4bbb-ad6d-4d62-9404-45b4f947a007.woff2") format("woff2"),url("../Fonts/905963/27f14f42-5357-4ca6-98a0-7e05ba169c19.woff") format("woff");
     }
     @font-face{
         font-family:"MagistralW01-LightItali";
-        src:url("Fonts/905966/48a411c7-e904-4bb6-94c1-8b4e3d4d0fad.woff2") format("woff2"),url("Fonts/905966/26c9e6f1-29d7-4587-a7df-f334afa55c86.woff") format("woff");
+        src:url("../Fonts/905966/48a411c7-e904-4bb6-94c1-8b4e3d4d0fad.woff2") format("woff2"),url("../Fonts/905966/26c9e6f1-29d7-4587-a7df-f334afa55c86.woff") format("woff");
     }
     @font-face{
         font-family:"Magistral W01 Book";
-        src:url("Fonts/905969/2e243ced-b7b8-4ad4-938d-19bb17101121.woff2") format("woff2"),url("Fonts/905969/35199eb1-9074-417f-be55-fd7e98066287.woff") format("woff");
+        src:url("../Fonts/905969/2e243ced-b7b8-4ad4-938d-19bb17101121.woff2") format("woff2"),url("../Fonts/905969/35199eb1-9074-417f-be55-fd7e98066287.woff") format("woff");
     }
     @font-face{
         font-family:"MagistralW01-BookItalic";
-        src:url("Fonts/905972/09f6fb8b-1f94-46ad-b8b4-b17c4832d75f.woff2") format("woff2"),url("Fonts/905972/8a5e9f8b-4ab7-4b8c-b47b-c2f8a5e7f25c.woff") format("woff");
+        src:url("../Fonts/905972/09f6fb8b-1f94-46ad-b8b4-b17c4832d75f.woff2") format("woff2"),url("../Fonts/905972/8a5e9f8b-4ab7-4b8c-b47b-c2f8a5e7f25c.woff") format("woff");
     }
     @font-face{
         font-family:"Magistral W01 Bold";
-        src:url("Fonts/905975/437ebffe-46f2-471d-bd88-e22cf4d6a77e.woff2") format("woff2"),url("Fonts/905975/c55d4c46-789a-4727-a92b-32da79bc12f0.woff") format("woff");
+        src:url("../Fonts/905975/437ebffe-46f2-471d-bd88-e22cf4d6a77e.woff2") format("woff2"),url("../Fonts/905975/c55d4c46-789a-4727-a92b-32da79bc12f0.woff") format("woff");
     }
     @font-face{
         font-family:"Magistral W01 XBold";
-        src:url("Fonts/905978/beb7ea9e-7162-489d-803d-5fc03872ba16.woff2") format("woff2"),url("Fonts/905978/3c080c03-7be8-4cf1-a6e8-0b56e1a37a4a.woff") format("woff");
+        src:url("../Fonts/905978/beb7ea9e-7162-489d-803d-5fc03872ba16.woff2") format("woff2"),url("../Fonts/905978/3c080c03-7be8-4cf1-a6e8-0b56e1a37a4a.woff") format("woff");
     }
     @font-face{
         font-family:"MagistralW01-BoldItalic";
-        src:url("Fonts/905981/510d1401-188d-4c42-8f08-9724455aa27d.woff2") format("woff2"),url("Fonts/905981/8623fb59-50f8-4096-8ba7-2ac5dd0502fc.woff") format("woff");
+        src:url("../Fonts/905981/510d1401-188d-4c42-8f08-9724455aa27d.woff2") format("woff2"),url("../Fonts/905981/8623fb59-50f8-4096-8ba7-2ac5dd0502fc.woff") format("woff");
     }
     @font-face{
         font-family:"MagistralW01-XBoldItali";
-        src:url("Fonts/905984/80a71320-8fc9-4cb4-8cd8-f49d33095fc0.woff2") format("woff2"),url("Fonts/905984/801638b8-399a-478e-89cc-878776c584b3.woff") format("woff");
+        src:url("../Fonts/905984/80a71320-8fc9-4cb4-8cd8-f49d33095fc0.woff2") format("woff2"),url("../Fonts/905984/801638b8-399a-478e-89cc-878776c584b3.woff") format("woff");
     }
     @font-face{
         font-family:"Magistral W08 Medium";
-        src:url("Fonts/1558079/e7a72306-efa8-4026-90aa-c8f7c2cb16c0.woff2") format("woff2"),url("Fonts/1558079/92259526-b9f6-4a75-99d9-ffec8482bdea.woff") format("woff");
+        src:url("../Fonts/1558079/e7a72306-efa8-4026-90aa-c8f7c2cb16c0.woff2") format("woff2"),url("../Fonts/1558079/92259526-b9f6-4a75-99d9-ffec8482bdea.woff") format("woff");
     }
     @font-face{
         font-family:"Magistral Medium Italic W08 Rg";
-        src:url("Fonts/1558081/25232f40-d1d8-4d1a-acec-ce08ea96e6d6.woff2") format("woff2"),url("Fonts/1558081/8f077bc2-d9a7-4cad-ae15-4655574141cc.woff") format("woff");
+        src:url("../Fonts/1558081/25232f40-d1d8-4d1a-acec-ce08ea96e6d6.woff2") format("woff2"),url("../Fonts/1558081/8f077bc2-d9a7-4cad-ae15-4655574141cc.woff") format("woff");
     }
 </style>'
   # title_font: '"Muli", sans-serif'
