@@ -86,7 +86,8 @@ color_settings:
 
 font_settings:
   # font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
-  font_embed: '<style type="text/css">    @font-face{
+  font_embed: '<style type="text/css">
+    @font-face{
         font-family:"Magistral W01 Light";
         src:url("../Fonts/905963/cd2f4bbb-ad6d-4d62-9404-45b4f947a007.woff2") format("woff2"),url("../Fonts/905963/27f14f42-5357-4ca6-98a0-7e05ba169c19.woff") format("woff");
     }
