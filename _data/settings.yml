@@ -128,8 +128,8 @@ font_settings:
     }
 </style>'
   # title_font: '"Muli", sans-serif'
-  title_font: '"Magistral W01 Book", sans-serif'
-  body_font: '"Magistral W01 Book", sans-serif'
+  title_font: '"Magistral W01 Book"'
+  body_font: '"Magistral W01 Book"'
   regular_weight: 400
   bold_weight: 600
   site_title:
