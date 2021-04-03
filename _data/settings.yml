@@ -1,5 +1,7 @@
 basic_settings:
   site_title: scottnorton
+  site_title_part_a: scott
+  site_title_part_b: norton
   favicon_image: /images/favicon.png
 
 header_settings:
