@@ -143,7 +143,7 @@ This is your website home page. You can edit some details in the Front Matter at
 `description` – this sets the page meta description, which shows up on search engine results, social shares etc.
 `featured_image` – this sets the header image for the page, as well as the meta image, which shows up on social shares.
 
-Below the Front Matter is the code for the page. You should edit this to set your title and intro text. Hint - the main <h1> tag respects line breaks on tablet size screens and larger. This is useful if you want to prevent typographic widows.
+Below the Front Matter is the code for the page. You should edit this to set your title and intro text. Hint - the main `<h1>` tag respects line breaks on tablet size screens and larger. This is useful if you want to prevent typographic widows.
 
 ### The blog page – `/blog/index.html`
 
