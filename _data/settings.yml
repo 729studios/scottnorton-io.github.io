@@ -1,6 +1,6 @@
 basic_settings:
   site_title: scottnorton
-  favicon_image: /images/favicon.png
+  favicon_image: /images/scottnorton-io-favicon.ico
 
 header_settings:
   logo_image: 
