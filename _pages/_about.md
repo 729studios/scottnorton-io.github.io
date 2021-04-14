@@ -1,7 +1,7 @@
 ---
 title: About me
-subtitle: You reach me before I completed this section. Thank you for the visit.
-description: You reach me before I completed this section. Thank you for the visit.
+subtitle: You reached me before I completed this section. Thank you for the visit.
+description: You reached me before I completed this section. Thank you for the visit.
 featured_image: /images/graphicstock-fit-senior-man-in-gym-in-sports-clothing-working-his-abs-doing-abdominal-crunches_HuGyfztIG-.jpg
 ---
 
