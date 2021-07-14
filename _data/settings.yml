@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Features'
       url: '/'
     - title: 'Locus Communis'
-      url: '/blog/'
+      url: '/locus-communis/'
 #    - title: 'About'
 #      url: '/about'
 #    - title: 'Contact'
