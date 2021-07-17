@@ -1,7 +1,7 @@
 ---
-title: 'Scratch The SurfaceQuick Answer'
+title: 'Scratch The Surface'
 date: 2021-07-17 15:30:00
-description: This page is a template for the Quick Answer lightning talks.
+description: This page is a template for the Scratch The Surface lightning talks.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
@@ -9,7 +9,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Content
 
-This template is the starting poing for the **Quick Answer** lightning talks.
+This template is the starting poing for the **Scratch The Surface** lightning talks.
 
 ### The intro video template
 
