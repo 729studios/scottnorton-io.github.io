@@ -1,5 +1,5 @@
 ---
-title: 'Lets Have A Look'
+title: "Let's Have A Look"
 date: 2021-07-13 16:10:00
 description: This page is a template for the Let's Have A Look lightning talks.
 featured_image: '/images/demo/demo-square.jpg'
