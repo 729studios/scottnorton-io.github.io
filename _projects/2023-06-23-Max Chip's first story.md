@@ -2,7 +2,7 @@
 title: 'Stirring the Future: Max Chip's Blend of FinTech and Mixology'
 subtitle: 'How a Tech Enthusiast Became the Maestro of Payment Security and Cocktail Connoisseurship in FinTechia'
 date: 2023-06-23 00:00:00
-description: Max Chip, with his harmonious fusion of technology, security, and experiences, has truly become the Payment Security Storyteller of FinTechia.
+description: Max Chip, the Payment Security Storyteller of FinTechia.
 featured_image: '/images/techsmith/mojito-cocktail.shutterstock_664391506.jpg'
 ---
 
