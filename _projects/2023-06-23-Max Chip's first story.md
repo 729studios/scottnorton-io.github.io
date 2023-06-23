@@ -6,7 +6,7 @@ description: In the heart of FinTechia city, Max Chip, a tech-savvy QSA, cocktai
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/techsmith/mojito-cocktail.shutterstock_664391506.jpg)
 
 # The Cocktail Mix of Trust and Technology in the Payment Card Industry
 
