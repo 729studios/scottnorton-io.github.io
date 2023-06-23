@@ -11,7 +11,7 @@ featured_image: '/images/techsmith/security-escourt-shutterstock_1090535255.jpg'
 # Max Chip's Security Background Report & Employment History
 
 **Personal Details**
-- Full Name: Max Chip
+- Full Name: Maximillian "Max" Chip
 - Date of Birth: [Redacted]
 - Nationality: [Redacted]
 
