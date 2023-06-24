@@ -1,37 +1,37 @@
 ---
-title: "Conduit Weak & Leak: Reactive and Inefficient Logging"
+title: "Conduit Weak & Leak: Absence of Formal Security Policies"
 subtitle: ''
-date: 2023-06-27 06:00:00
+date: 2023-06-29 06:00:00
 description: "Overview of Weak & Leak Infrastructure"
 featured_image: '/images/techsmith/line-pipe-shutterstock_1037473621.jpg'
 ---
 
 ![](/images/techsmith/line-pipe-shutterstock_1037473621.jpg)
 
-**Initial Stage - Reactive and Inefficient Logging:**
+**Initial Stage - Absence of Formal Security Policies:**
 
-In the early stages, CW&L's approach to logging was fairly basic and reactive. The systems and network devices were set up to create logs, but there was no centralized system for log management or monitoring. Logs were reviewed only when an incident occurred and required investigation. This lack of proactive log monitoring was a significant gap in their security posture, which became apparent during the 2018 data breach.
+In CW&L's early years, the company operated with minimal formal security policies. This gap was primarily due to a lack of understanding of the importance of comprehensive security policies in establishing a security-conscious culture within the organization. 
 
-**Post-Breach - Recognizing the Importance of Log Monitoring:**
+**Recognizing the Need for Change:**
 
-After the data breach, the necessity for a more systematic and proactive approach to log monitoring was clear. The newly appointed CISO made log management and monitoring a key part of the security overhaul. The goal was to detect and respond to suspicious activities in real-time, rather than in the aftermath of a security incident.
+The 2018 data breach was a wake-up call for CW&L. It highlighted the weaknesses in their security posture and the urgent need for robust security policies. This realization marked the beginning of their journey towards developing and implementing comprehensive security policies.
 
-**Development Stage - Establishing a Log Management and Monitoring System:**
+**Formulation Stage - Developing the Security Policies:**
 
-The first step in developing a proactive log monitoring program was to establish a centralized log management system. All systems and network devices were configured to send their logs to this central repository. This allowed for efficient storage and unified monitoring of all logs.
+CW&L began by creating a security policy development team composed of key stakeholders from various departments. Their first task was to identify the areas that needed to be addressed in the security policies, such as access control, data protection, incident response, and more. 
 
-Next, they implemented automated log monitoring tools to analyze the logs in real-time. These tools were configured to flag unusual patterns or suspicious activities, such as multiple failed login attempts, changes in file integrity, or unusual network traffic patterns.
+They then went on to draft detailed policies for each area, considering best practices and compliance requirements like those of PCI DSS. These policies included password policies, encryption policies, remote access policies, and more.
 
-**Enrichment Phase - Enhancing Log Monitoring:**
+**Implementation Stage - Rolling out the Policies:**
 
-In addition to real-time monitoring, they set up regular review processes. Security analysts were tasked with reviewing the flagged events and determining whether they posed a genuine security risk. This review process helped minimize false positives and ensured that real threats were promptly identified and addressed.
+After the policies were created, they were reviewed by the legal team to ensure they met all regulatory requirements. They were then approved by the senior management team and rolled out to the entire organization.
 
-To further enhance their log monitoring, CW&L integrated threat intelligence feeds into their log monitoring tools. These feeds provided information on known malicious IP addresses, URLs, and other threat indicators, helping to identify potential threats more quickly.
+To ensure everyone was aware of the new policies, CW&L held company-wide training sessions. These sessions explained the policies in detail, their importance, and the consequences of non-compliance. 
 
-**Ongoing Maintenance - Continual Improvement and Compliance:**
+**Review and Update Stage - Ensuring Policies Stay Relevant:**
 
-Once the log management and monitoring system was in place, CW&L introduced regular audits to ensure the system's effectiveness. They also implemented procedures to ensure logs were retained as per PCI DSS requirements. The audits checked that logs were being appropriately generated, collected, monitored, reviewed, and retained.
+CW&L established a review process to ensure the policies remained current and effective. This process involved a yearly review of all policies, or whenever significant changes occurred within the organization or in the regulatory landscape. 
 
-**Current Status - Proactive and Efficient Log Monitoring:**
+**Current Status - Maintaining Robust and Up-to-date Security Policies:**
 
-Today, CW&L's log management and monitoring system is robust and plays a critical role in their security posture. The journey from a reactive approach to a proactive log monitoring system was instrumental in achieving and maintaining PCI DSS v4.0 compliance. It also provided valuable insights into their network operations, helping to identify and address potential issues before they escalate into serious security incidents.
+Today, CW&L's security policies are robust, current, and crucial to maintaining a strong security posture. The journey from an absence of formal security policies to a comprehensive set of up-to-date security policies has played a significant role in achieving and maintaining PCI DSS v4.0 compliance. These policies have also fostered a culture of security consciousness within the organization, ensuring that security is a consideration in all aspects of CW&L's operations.

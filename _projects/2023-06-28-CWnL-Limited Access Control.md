@@ -1,37 +1,39 @@
 ---
-title: "Conduit Weak & Leak: Reactive and Inefficient Logging"
+title: "Conduit Weak & Leak: Limited Access Control"
 subtitle: ''
-date: 2023-06-27 06:00:00
+date: 2023-06-28 06:00:00
 description: "Overview of Weak & Leak Infrastructure"
 featured_image: '/images/techsmith/line-pipe-shutterstock_1037473621.jpg'
 ---
 
 ![](/images/techsmith/line-pipe-shutterstock_1037473621.jpg)
 
-**Initial Stage - Reactive and Inefficient Logging:**
+**Initial Stage - Limited Access Control:**
 
-In the early stages, CW&L's approach to logging was fairly basic and reactive. The systems and network devices were set up to create logs, but there was no centralized system for log management or monitoring. Logs were reviewed only when an incident occurred and required investigation. This lack of proactive log monitoring was a significant gap in their security posture, which became apparent during the 2018 data breach.
+When CW&L first started, its access control measures were rudimentary at best. All employees had relatively open access to systems and data, with little differentiation based on roles or job functions. This 'one size fits all' approach to access control was simpler to manage, but it left sensitive systems and data exposed to unnecessary risks.
 
-**Post-Breach - Recognizing the Importance of Log Monitoring:**
+**Recognizing the Problem:**
 
-After the data breach, the necessity for a more systematic and proactive approach to log monitoring was clear. The newly appointed CISO made log management and monitoring a key part of the security overhaul. The goal was to detect and respond to suspicious activities in real-time, rather than in the aftermath of a security incident.
+The lack of effective access control measures became painfully evident during the 2018 data breach. Intruders were able to easily move laterally through the network due to the lack of restrictions on access. The new CISO quickly identified the need for more stringent access control measures and made this a top priority in the cybersecurity overhaul.
 
-**Development Stage - Establishing a Log Management and Monitoring System:**
+**Implementation Stage - Introducing Role-Based Access Control:**
 
-The first step in developing a proactive log monitoring program was to establish a centralized log management system. All systems and network devices were configured to send their logs to this central repository. This allowed for efficient storage and unified monitoring of all logs.
+The first step towards implementing effective access controls was to define clear roles and responsibilities within the organization. Each role was carefully analyzed to determine the least amount of access necessary for employees to perform their jobs efficiently. This principle of 'least privilege' was crucial in minimizing the potential damage from both internal and external threats.
 
-Next, they implemented automated log monitoring tools to analyze the logs in real-time. These tools were configured to flag unusual patterns or suspicious activities, such as multiple failed login attempts, changes in file integrity, or unusual network traffic patterns.
+Once roles were defined, a Role-Based Access Control (RBAC) system was implemented. The RBAC system granted permissions based on roles, ensuring that individuals only had access to the data and systems necessary for their roles. 
 
-**Enrichment Phase - Enhancing Log Monitoring:**
+**Enrichment Stage - Strengthening Authentication and Authorization:**
 
-In addition to real-time monitoring, they set up regular review processes. Security analysts were tasked with reviewing the flagged events and determining whether they posed a genuine security risk. This review process helped minimize false positives and ensured that real threats were promptly identified and addressed.
+In addition to RBAC, CW&L implemented stronger authentication mechanisms. Two-factor authentication (2FA) was introduced for all users, adding an extra layer of security. 
 
-To further enhance their log monitoring, CW&L integrated threat intelligence feeds into their log monitoring tools. These feeds provided information on known malicious IP addresses, URLs, and other threat indicators, helping to identify potential threats more quickly.
+For particularly sensitive operations, such as administrative tasks within the CDE, even stronger controls were implemented. This included measures such as multi-factor authentication and secure admin workstations.
 
-**Ongoing Maintenance - Continual Improvement and Compliance:**
+Authorization measures were also tightened. Any changes in access rights were subject to approval from a senior manager, and regular audits were conducted to ensure access rights remained appropriate when roles or responsibilities changed.
 
-Once the log management and monitoring system was in place, CW&L introduced regular audits to ensure the system's effectiveness. They also implemented procedures to ensure logs were retained as per PCI DSS requirements. The audits checked that logs were being appropriately generated, collected, monitored, reviewed, and retained.
+**Ongoing Maintenance - Regular Reviews and Audits:**
 
-**Current Status - Proactive and Efficient Log Monitoring:**
+With these systems in place, CW&L initiated regular reviews and audits of their access control measures. This helped ensure that the principle of least privilege was maintained as roles and responsibilities evolved within the organization. Access logs were also closely monitored to identify any irregularities or potential security incidents.
 
-Today, CW&L's log management and monitoring system is robust and plays a critical role in their security posture. The journey from a reactive approach to a proactive log monitoring system was instrumental in achieving and maintaining PCI DSS v4.0 compliance. It also provided valuable insights into their network operations, helping to identify and address potential issues before they escalate into serious security incidents.
+**Current Status - Effective and Proactive Access Control:**
+
+Today, CW&L has a robust and proactive access control program in place. The journey from rudimentary access controls to a comprehensive, role-based access control system was a key component of their cybersecurity overhaul. It has played a significant role in their ability to achieve and maintain PCI DSS v4.0 compliance, and in significantly improving their overall security posture.
