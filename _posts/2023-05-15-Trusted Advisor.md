@@ -25,7 +25,7 @@ But a Trusted Advisor isn't just about technical expertise. They understand the 
 In today's data-driven world, a PCI DSS Trusted Advisor plays a vital role. Their knowledge, experience, and personalized approach help businesses navigate the complexities of compliance. By engaging a Trusted Advisor, organizations can protect their payment data, maintain trust, and make compliance efforts an integral part of their business strategy. In a world where data breaches are a real threat, a Trusted Advisor is an invaluable asset.
 
 ## REFERENCES
-![PCI Security Standards Council](https://www.pcisecuritystandards.org/)
+[PCI Security Standards Council](https://www.pcisecuritystandards.org/)
 
 ## hashtags
 #pcidss #merchant #serviceprovider #trustedadvisor #compliance
