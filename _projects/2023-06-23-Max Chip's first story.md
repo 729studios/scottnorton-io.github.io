@@ -1,5 +1,5 @@
 ---
-title: "Stirring the Future: Max Chip's Blend of FinTech and Mixology"
+title: "Stirring the Future: Blend of FinTech and Mixology with Max Chip"
 subtitle: 'How a Tech Enthusiast Became the Maestro of Payment Security and Cocktail Connoisseurship in FinTechia'
 date: 2023-06-23 00:00:00
 description: 'Max Chip, the Payment Security Storyteller of FinTechia.'
