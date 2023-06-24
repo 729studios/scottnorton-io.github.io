@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Features'
+    - title: 'Articles'
       url: '/'
     - title: 'Locus Communis'
       url: '/locus-communis/'
