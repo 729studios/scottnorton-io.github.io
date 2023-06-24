@@ -2,7 +2,7 @@
 title: 'Maximillian "Max" Chip'
 subtitle: '"Securing the digital frontier, one transaction at a time."'
 date: 2023-05-31 00:00:00
-description: Maximillian "Max" Chip, a Qualified Security Assessor and fintech aficionado, "Securing the digital frontier, one transaction at a time."
+description: 'Maximillian "Max" Chip, a Qualified Security Assessor and fintech aficionado, "Securing the digital frontier, one transaction at a time."'
 featured_image: '/images/techsmith/security-escourt-shutterstock_1090535255.jpg'
 ---
 
