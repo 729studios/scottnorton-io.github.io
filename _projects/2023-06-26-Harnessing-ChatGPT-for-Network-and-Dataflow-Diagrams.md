@@ -1,6 +1,6 @@
 ---
 title: "DRAFT: Harnessing ChatGPT for Network and Dataflow Diagrams: The Future of PCI DSS Compliance"
-subtitle: 'Revolutionizing Network Diagrams: Embracing AI and GraphViz/SketchViz for a Safer and Efficient PCI DSS Compliance Process'
+subtitle: "Revolutionizing Network Diagrams: Embracing AI and GraphViz/SketchViz for a Safer and Efficient PCI DSS Compliance Process"
 date: 2023-06-26 00:00:00
 description: "Discover how OpenAI's ChatGPT and GraphViz/SketchViz are transforming PCI DSS compliance by facilitating secure and efficient creation of network and dataflow diagrams."
 featured_image: '/images/CWnL-images/advanced-dataflow-diagram.png'
