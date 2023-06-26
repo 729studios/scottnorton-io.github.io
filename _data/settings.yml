@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Articles'
       url: '/'
     - title: 'Templates'
-      url: '/templates/'
+      url: '/template/'
     - title: 'Locus Communis'
       url: '/locus-communis/'
 #    - title: 'About'
