@@ -42,12 +42,6 @@ defaults:
     values:
       layout: "project"
 
-    scope:
-      path: ""
-      type: "templates"
-    values:
-      layout: "template"
-
 markdown: kramdown
 
 kramdown:
