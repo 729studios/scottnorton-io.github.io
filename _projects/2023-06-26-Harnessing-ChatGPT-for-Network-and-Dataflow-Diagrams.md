@@ -1,5 +1,5 @@
 ---
-title: "Harnessing ChatGPT for Network and Dataflow Diagrams: The Future of PCI DSS Compliance"
+title: "DRAFT: Harnessing ChatGPT for Network and Dataflow Diagrams: The Future of PCI DSS Compliance"
 subtitle: 'Revolutionizing Network Diagrams: Embracing AI and GraphViz/SketchViz for a Safer and Efficient PCI DSS Compliance Process'
 date: 2023-06-26 00:00:00
 description: "Discover how OpenAI's ChatGPT and GraphViz/SketchViz are transforming PCI DSS compliance by facilitating secure and efficient creation of network and dataflow diagrams."
@@ -37,9 +37,7 @@ By using a text-based AI like ChatGPT, paired with GraphViz/SketchViz, we not on
 
 In my PCI DSS zero-to-hero reference architecture, which covers GRC program creation, policies, procedures, standards, infrastructure, and more, the usage of AI tools like ChatGPT is given a special place. For more insights, do visit my website https://scottnorton.io.
 
-In conclusion, it's high time
-
- we embrace AI like ChatGPT in our data security protocols. Not only does it streamline the process of compliance, but it also ensures the safety and privacy of our valuable data. Let's step into the future of PCI DSS compliance together.
+In conclusion, it's high time we embrace AI like ChatGPT in our data security protocols. Not only does it streamline the process of compliance, but it also ensures the safety and privacy of our valuable data. Let's step into the future of PCI DSS compliance together.
 
 Join me in this AI journey and let's make PCI DSS compliance more efficient and secure together. Connect, follow, and stay tuned for more updates.
 
