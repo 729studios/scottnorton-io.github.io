@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: Limited Access Control"
+title: "Condueit Weak & Leak: Limited Access Control"
 subtitle: ''
 date: 2023-06-28 06:00:00
 description: "Overview of Weak & Leak Infrastructure"

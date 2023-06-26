@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: Company Overview"
+title: "Condueit Weak & Leak: Company Overview"
 subtitle: ''
 date: 2023-06-23 06:00:00
 description: "Overview of Weak & Leak"
@@ -10,7 +10,7 @@ featured_image: '/images/techsmith/line-pipe-shutterstock_1037473621.jpg'
 
 **Company Overview:**
 
-Conduit: Weak and Leak (CW&L) started its operations in 2003 as an online marketplace for electronic products. By 2010, CW&L expanded its product offerings, catering to customers worldwide, with a primary focus on North America, Europe, and Asia. 
+Condueit: Weak and Leak (CW&L) started its operations in 2003 as an online marketplace for electronic products. By 2010, CW&L expanded its product offerings, catering to customers worldwide, with a primary focus on North America, Europe, and Asia. 
 
 Over the years, CW&L grew in size, reputation, and transaction volume. In 2016, CW&L reached an impressive milestone, surpassing 10 million transactions per year. With this rapid growth and increased customer base, CW&L recognized the growing importance of data security.
 

@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: PCI DSS Compliance Failure"
+title: "Condueit Weak & Leak: PCI DSS Compliance Failure"
 subtitle: ''
 date: 2023-07-01 06:00:00
 description: "Overview of Weak & Leak Infrastructure"

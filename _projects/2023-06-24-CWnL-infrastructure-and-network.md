@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: Technology Infrastructure and Network Segementation"
+title: "Condueit Weak & Leak: Technology Infrastructure and Network Segementation"
 subtitle: ''
 date: 2023-06-24 06:00:00
 description: "Overview of Weak & Leak Infrastructure"

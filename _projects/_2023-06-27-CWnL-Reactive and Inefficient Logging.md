@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: Reactive and Inefficient Logging"
+title: "Condueit Weak & Leak: Reactive and Inefficient Logging"
 subtitle: ''
 date: 2023-06-27 06:00:00
 description: "Overview of Weak & Leak Infrastructure"

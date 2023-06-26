@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: Absence of Formal Security Policies"
+title: "Condueit Weak & Leak: Absence of Formal Security Policies"
 subtitle: ''
 date: 2023-06-29 06:00:00
 description: "Overview of Weak & Leak Infrastructure"

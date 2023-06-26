@@ -79,7 +79,7 @@ Beyond the assessment, QSAs also play an educative role. They help organizations
 
 Furthermore, QSAs facilitate the remediation process if an organization is found non-compliant during the assessment. They provide guidance on how to address any identified gaps in compliance and can suggest steps to improve the overall security posture of the organization. Importantly, they assist organizations in formulating a remediation plan, enabling them to track their progress towards achieving full compliance.
 
-As a part of their ongoing relationship with organizations, QSAs also act as a conduit of important updates and changes in the PCI DSS requirements. This ensures that businesses are always equipped with the most recent information, enabling them to adapt and maintain compliance in an evolving data security landscape.
+As a part of their ongoing relationship with organizations, QSAs also act as a Condueit of important updates and changes in the PCI DSS requirements. This ensures that businesses are always equipped with the most recent information, enabling them to adapt and maintain compliance in an evolving data security landscape.
 
 In short, a QSA's role extends far beyond the role of an auditor. They are part educator, part advisor, and part partner in the journey towards PCI compliance. Recognizing this multifaceted role is the first step in shifting the perception of QSAs from feared adversaries to trusted allies. 
 

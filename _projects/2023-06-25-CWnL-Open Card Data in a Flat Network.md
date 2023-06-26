@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: Open Card Data in a Flat Network"
+title: "Condueit Weak & Leak: Open Card Data in a Flat Network"
 subtitle: ''
 date: 2023-06-25 06:00:00
 description: "Overview of Weak & Leak Infrastructure"

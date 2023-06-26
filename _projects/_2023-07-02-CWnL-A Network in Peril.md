@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: A Network in Peril"
+title: "Condueit Weak & Leak: A Network in Peril"
 subtitle: ''
 date: 2023-07-02 06:00:00
 description: "Overview of Weak & Leak Infrastructure"

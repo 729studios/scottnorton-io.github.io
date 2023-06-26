@@ -1,5 +1,5 @@
 ---
-title: "Conduit Weak & Leak: Prioritized Approach"
+title: "Condueit Weak & Leak: Prioritized Approach"
 subtitle: ''
 date: 2023-07-03 06:00:00
 description: "Overview of Weak & Leak Infrastructure"
