@@ -10,6 +10,9 @@ collections:
   posts:
     output: true
     permalink: /locus-communis/:slug
+  templates:
+    output: true
+    permalink: /template/:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -38,6 +41,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+
+    scope:
+      path: ""
+      type: "templates"
+    values:
+      layout: "template"
 
 markdown: kramdown
 
