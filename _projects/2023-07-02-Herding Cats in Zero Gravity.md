@@ -2,15 +2,11 @@
 title: "Ever feel like your PCI Compliance measures are akin to herding cats in zero gravity?"
 subtitle: ''
 date: 2023-07-02 00:00:00
-description: ""
+description: "PCI Compliance: Let's bring it back down to earth."
 featured_image: '/images/techsmith/zero-gravity-kitten-shutterstock_379544812.jpg'
 ---
 
-[comment]: <> (🖼️ Image Suggestion: Cats floating in a space scene, with a caption: 'PCI Compliance: Let's bring it back down to earth.'")
-
 ![](/images/techsmith/zero-gravity-kitten-shutterstock_379544812.jpg)
-
-"Ever feel like your PCI Compliance measures are akin to herding cats in zero gravity?
 
 🏝️ It's possible some of your systems embarked on a mysterious sabbatical, ceasing their logging activities months ago.
 
