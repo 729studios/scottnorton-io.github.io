@@ -3,10 +3,10 @@ title: "Taking Stock"
 subtitle: 'The Importance of Maintaining an Inventory for PCI DSS Compliance'
 date: 2023-07-26 00:00:00
 description: "Maintaining an up-to-date inventory of system components as per PCI DSS v4.0 Requirement 12.5.1 is pivotal to identify vulnerabilities, implement security measures efficiently, and ensure robust payment data protection."
-featured_image: '/images/inventory-management-shutterstock_1309210951.jpg'
+featured_image: '/images/techsmith/inventory-management-shutterstock_1309210951.jpg'
 ---
 
-![](/images/inventory-management-shutterstock_1309210951.jpg)
+![](/images/techsmith/inventory-management-shutterstock_1309210951.jpg)
 
 If you're a part of the vast ecosystem of entities that handle payment card transactions, you must be familiar with PCI DSS - the stringent guidelines set by the Payment Card Industry Security Standards Council (PCI SSC) to protect cardholder data. With the release of version 4.0, there are some new areas of focus. Today, we're diving into one crucial part of these guidelines: Requirement 12.5. 
 

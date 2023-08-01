@@ -3,10 +3,10 @@ title: "Achieving Compliance with PCI DSS v4.0 Requirement 12.2: Mastering Your 
 subtitle: "How to Prepare Your Organization for the Annual Assessment"
 date: 2023-08-01 00:00:00
 description: "Ensuring compliance with PCI DSS v4.0 Requirement 12.2 calls for a well-documented and comprehensive Acceptable Use Policy for end-user technologies, including approval processes and the management of approved hardware and software."
-featured_image: "/images/acceptable-use-shutterstock_367237052.jpg"
+featured_image: "/images/techsmith/acceptable-use-shutterstock_367237052.jpg"
 ---
 
-![](/images/acceptable-use-shutterstock_367237052.jpg)
+![](/images/techsmith/acceptable-use-shutterstock_367237052.jpg)
 
 
 ## SEO Article Summary:

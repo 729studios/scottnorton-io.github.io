@@ -3,10 +3,10 @@ title: "Elevating your PCI DSS Compliance: A Deep Dive into Requirement 12.4"
 subtitle: "Executive Accountability and Regular Reviews: The Twin Pillars of Robust PCI Compliance"
 date: 2023-08-03 00:00:00
 description: "PCI DSS Requirement 12.4 outlines the significance of executive management's responsibility in maintaining compliance and the necessity of conducting regular reviews - understand how you can meet these requirements effectively."
-featured_image: "/images/accountability-shutterstock_445755973.jpg"
+featured_image: "/images/techsmith/accountability-shutterstock_445755973.jpg"
 ---
 
-![](/images/accountability-shutterstock_445755973.jpg)
+![](/images/techsmith/accountability-shutterstock_445755973.jpg)
 
 
 SEO article summary: Explore the nuances of PCI DSS Requirement 12.4, and understand why executive accountability and regular reviews are essential for a successful compliance program. Be prepared for your annual assessment and get to know what your assessing QSA will be looking for.

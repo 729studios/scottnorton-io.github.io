@@ -3,10 +3,10 @@ title: "The Rest of the Story: FinTech and the Privacy We Trade"
 subtitle: "Trading Convenience for Privacy: A Deeper Dive into FinTech's Data Collection Practices"
 date: 2023-08-01 12:00:00
 description: "The rise of FinTech has brought convenience but also raised privacy concerns due to widespread data collection practices. We must demand greater transparency and robust security measures to protect our personal data in the digital finance world. Remember, it's our data, our lives, and it should be our choice how it's used."
-featured_image: "/images/fintech-concept-shutterstock_454000951.jpg"
+featured_image: "/images/techsmith/fintech-concept-shutterstock_454000951.jpg"
 ---
 
-![](/images/fintech-concept-shutterstock_454000951.jpg)
+![](/images/techsmith/fintech-concept-shutterstock_454000951.jpg)
 
 
 ## SEO Summary:

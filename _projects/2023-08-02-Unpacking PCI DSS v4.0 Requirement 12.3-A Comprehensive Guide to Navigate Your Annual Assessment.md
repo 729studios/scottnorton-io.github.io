@@ -3,10 +3,10 @@ title: "Unpacking PCI DSS v4.0 Requirement 12.3: A Comprehensive Guide to Naviga
 subtitle: "From Documentation to Evidence – Everything Your Business Needs to Prepare"
 date: 2023-08-02 00:00:00
 description: "Preparing for the PCI DSS v4.0 Requirement 12.3 assessment involves regular risk analyses, maintaining updated inventories of cryptographic cipher suites and technologies, and having a well-documented strategy for addressing changes. This guide provides an overview of the documents and evidence you'll need for a smooth assessment process."
-featured_image: "/images/risk-assessment-shutterstock_542834731.jpg"
+featured_image: "/images/techsmith/risk-assessment-shutterstock_542834731.jpg"
 ---
 
-![](/images/risk-assessment-shutterstock_542834731.jpg)
+![](/images/techsmith/risk-assessment-shutterstock_542834731.jpg)
 
 
 #### SEO Article Summary:

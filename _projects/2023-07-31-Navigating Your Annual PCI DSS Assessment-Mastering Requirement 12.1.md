@@ -3,10 +3,10 @@ title: "Navigating Your Annual PCI DSS Assessment: Mastering Requirement 12.1"
 subtitle: "Proactive Steps to Meet and Exceed the Information Security Policy Requirements"
 date: 2023-07-31 00:00:00
 description: "Successfully meeting PCI DSS Requirement 12.1 is about proactively maintaining an Information Security Policy, conducting regular reviews, clarifying roles, and ensuring responsibility at the executive level. Start preparing today for a smoother annual assessment tomorrow."
-featured_image: "/images/information-security-shutterstock_1395752729.jpg"
+featured_image: "/images/techsmith/information-security-shutterstock_1395752729.jpg"
 ---
 
-![](/images/information-security-shutterstock_1395752729.jpg)
+![](/images/techsmith/information-security-shutterstock_1395752729.jpg)
 
 
 ### SEO article summary:
