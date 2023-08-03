@@ -32,7 +32,7 @@ Your organization is expected to conduct regular risk analyses and keep up-to-da
 Your Qualified Security Assessor (QSA) will request several pieces of evidence during the annual assessment. Here's what you should prepare:
 
 *For Requirement 12.3.1:*
-- A documented risk analysis for each PCI DSS requirement
+- A documented risk analysis for each PCI DSS requirement where the standard does not define a minimum frequency for recurring activities but instead allows for the requirement to be met "periodically"
 - Evidence of the annual review of the risk analysis
 - Evidence of updated risk analyses, as determined by the annual review
 
